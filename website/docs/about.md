@@ -35,8 +35,12 @@ The Agentic Community unites companies, developers, researchers, and practitione
 
 **Sustainability**: We build for long-term impact, maintaining stewardship of projects and ensuring the viability of our community for years to come.
 
-## Initial Working Groups:
-- Agent Deployment 
-- Agent Operations
-- Agent Interoperability
-- Agent Security
+## Working Groups:
+
+[Agent Development](Working%20Groups/development.md) 
+
+[Agent Interoperability](Working%20Groups/interoperability.md)
+
+[Agent Operations](Working%20Groups/operations.md)
+
+[Agent Security](Working%20Groups/security.md)
